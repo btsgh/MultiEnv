@@ -1,8 +1,16 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "PostGreSQL",
       "isDefault": true
+    },
+    {
+      "id": "SnowflakeDB",
+      "isDefault": false
+    },
+    {
+      "id": "DynamodB",
+      "isDefault": false
     }
   ],
   "viewMode": false,
