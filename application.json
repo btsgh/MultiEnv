@@ -11,6 +11,10 @@
     {
       "id": "DynamodB",
       "isDefault": false
+    },
+    {
+      "id": "MySQL",
+      "isDefault": false
     }
   ],
   "viewMode": false,
