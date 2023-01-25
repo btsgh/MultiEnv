@@ -498,7 +498,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "MySQL_Select",
+              "id": "Page1_Query1",
               "name": "Select",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

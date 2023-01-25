@@ -499,7 +499,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "PostGreSQL_Query1",
+              "id": "Page1_Query1",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
