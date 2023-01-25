@@ -1,6 +1,14 @@
 {
   "pages": [
     {
+      "id": "Investors2",
+      "isDefault": false
+    },
+    {
+      "id": "Investors",
+      "isDefault": false
+    },
+    {
       "id": "Feedback Form",
       "isDefault": false
     },
@@ -36,8 +44,8 @@
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#F1DEFF",
-  "icon": "arrow-up",
+  "color": "#C7F3E3",
+  "icon": "medical",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },

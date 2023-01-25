@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "Feedback Form",
     "slug": "feedback-form",
+    "customSlug": "",
     "layouts": [
       {
         "viewMode": false,
@@ -1888,7 +1889,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Feedback Form_fetch_form_fields",
+              "id": "Investors2_UpdateQuery",
               "name": "fetch_form_fields",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

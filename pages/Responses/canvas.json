@@ -1620,7 +1620,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Responses_avg_rating",
+              "id": "Investors2_UpdateQuery",
               "name": "avg_rating",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -1630,7 +1630,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Responses_feedback_count",
+              "id": "Investors2_UpdateQuery",
               "name": "feedback_count",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -1640,7 +1640,7 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Responses_form_filter",
+              "id": "Investors2_UpdateQuery",
               "name": "form_filter",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -1652,7 +1652,7 @@
           ],
           [
             {
-              "id": "Responses_selectQuery",
+              "id": "Investors2_UpdateQuery",
               "name": "selectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

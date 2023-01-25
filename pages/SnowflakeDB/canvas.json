@@ -840,7 +840,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "SnowflakeDB_SelectQ",
+              "id": "Investors2_UpdateQuery",
               "name": "SelectQ",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

@@ -499,7 +499,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Query1",
+              "id": "Investors2_UpdateQuery",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
