@@ -498,7 +498,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "MySQL_Select",
               "name": "Select",
               "confirmBeforeExecute": false,
               "pluginType": "DB",

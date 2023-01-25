@@ -85,7 +85,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "DynamodB_Query1",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
