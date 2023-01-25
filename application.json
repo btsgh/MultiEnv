@@ -1,10 +1,6 @@
 {
   "pages": [
     {
-      "id": "Feedback Form",
-      "isDefault": false
-    },
-    {
       "id": "Form Maker",
       "isDefault": false
     },
