@@ -1,14 +1,6 @@
 {
   "pages": [
     {
-      "id": "Form Maker",
-      "isDefault": false
-    },
-    {
-      "id": "Responses",
-      "isDefault": false
-    },
-    {
       "id": "PostGreSQL",
       "isDefault": true
     },
@@ -26,6 +18,10 @@
     },
     {
       "id": "FireStore",
+      "isDefault": false
+    },
+    {
+      "id": "ArangoDB",
       "isDefault": false
     }
   ],
